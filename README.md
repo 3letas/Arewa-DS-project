@@ -1,2 +1,4 @@
 # Arewa-DS-project
-An Arewa DS Project
+This is my Arewa Data Science Project
+My name is Ini Edet
+I am an Data Science Enthusiast
